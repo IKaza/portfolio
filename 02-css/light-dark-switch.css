@@ -10,6 +10,16 @@ body.dark {
 	background-color: #191919;
 }
 
+.grey{
+	color: var(--primary-color);
+	background-color: #AAAAAA;
+}
+
+.grey.dark{
+	color: var(--primary-color);
+	background-color: #F2DE71;
+}
+
 /* ### Color Icons Start ### */
 
 .fa-moon {
